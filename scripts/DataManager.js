@@ -8,3 +8,4 @@ export const getUser = () => {
         })
 }
 // parsed response is filtering data to display in js correctly
+
